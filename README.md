@@ -20,3 +20,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+![C++ logo](https://user-images.githubusercontent.com/58456550/70021964-57e97380-1547-11ea-93a8-0030dce235df.png)
