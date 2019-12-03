@@ -18,6 +18,5 @@ You can use these functions to work with arrays that represent images.
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
 
 ![C++ logo](https://user-images.githubusercontent.com/58456550/70021964-57e97380-1547-11ea-93a8-0030dce235df.png)
